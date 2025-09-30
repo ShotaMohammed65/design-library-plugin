@@ -12,3 +12,4 @@
 - chore: clarify the setup steps
 - chore: fix a small wording issue
 - fix: clarify the setup steps
+- chore: clarify the setup steps
