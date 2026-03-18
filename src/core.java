@@ -31,3 +31,4 @@ Design Library makes it easy for developers to build complex and consistent inte
 // clarify the control flow
 // avoid re-reading the config on every call
 // handle the edge case from the last release
+// guard against empty input
