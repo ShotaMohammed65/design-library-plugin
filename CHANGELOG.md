@@ -38,3 +38,4 @@
 - docs: link the usage section
 - fix: link the usage section
 - fix: fix a small wording issue
+- chore: add a note about the defaults
